@@ -8,6 +8,10 @@ For more information, you can visit my [homepage](https://chingkei.cn/about/).
 
 📚 **Current Interests**: Embodied AI Infra, real-time flow-based VLAs, knowledge distillation, and practical AI tooling.
 
+## Open Source Projects
+
+📰 **[paperboy](https://github.com/JingqiJi03/paperboy)**: A Claude Code plugin / paper-reading skill that tracks arXiv and web papers for a research topic, deduplicates seen papers, and generates daily and weekly research digests.
+
 ## Papers
 
 See my [resume-publications](https://chingkei.cn/about/#publications) for more details.
